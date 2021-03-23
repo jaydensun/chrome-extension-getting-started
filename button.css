@@ -1,0 +1,17 @@
+button {
+  /*height: 30px;*/
+  /*width: 50px;*/
+  /*outline: red;*/
+  margin: 10px;
+  /*border: none;*/
+  border-radius: 2px;
+}
+
+
+#start {
+  background-color: lawngreen;
+}
+
+#stop {
+  background-color: lightsalmon;
+}
